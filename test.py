@@ -1,6 +1,6 @@
 import unittest
 from Clock import Clock
-
+from Alarm import Alarm
 
 class TestAlarm(unittest.TestCase):
 
