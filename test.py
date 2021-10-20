@@ -1,4 +1,5 @@
 import unittest
+from Clock import Clock
 
 
 class TestAlarm(unittest.TestCase):
